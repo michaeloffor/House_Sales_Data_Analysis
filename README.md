@@ -1,2 +1,2 @@
-# Training-Projects
-This Repo contains projects I completed during my self-taught Data Science training.
+# House Sales Data Analysis
+This project analyzed house sales data so as to improve profits.
